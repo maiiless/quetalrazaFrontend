@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.400ab72a.css",
+    "main.js": "./static/js/main.f14e3b96.js",
+    "static/media/pet3.jpg": "./static/media/pet3.821d8341bf7ca5b5904c.jpg",
+    "static/media/pet2.jpg": "./static/media/pet2.a7ff0473d8e498a7d8d4.jpg",
+    "static/media/pet4.jpg": "./static/media/pet4.bc083dd4828bd90a3afc.jpg",
+    "static/media/pet1.jpg": "./static/media/pet1.040b0cf0e2cf1f9f1964.jpg",
+    "static/media/pet5.jpg": "./static/media/pet5.e3d4925ddd535e696105.jpg",
+    "static/media/petvet.jpg": "./static/media/petvet.437ff4cc020d7d5595e7.jpg",
+    "static/media/grooming.jpg": "./static/media/grooming.2f4e70218b35f596947b.jpg",
+    "static/media/medvet.jpg": "./static/media/medvet.74cad6ab06e0be0611d4.jpg",
+    "static/media/logo.jpg": "./static/media/logo.dda53cdd51978d236d02.jpg",
+    "static/media/icon_menu.svg": "./static/media/icon_menu.3aa38c5e16715afedfa9b1adb8607b7d.svg",
+    "index.html": "./index.html",
+    "main.400ab72a.css.map": "./static/css/main.400ab72a.css.map",
+    "main.f14e3b96.js.map": "./static/js/main.f14e3b96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.400ab72a.css",
+    "static/js/main.f14e3b96.js"
+  ]
+}
