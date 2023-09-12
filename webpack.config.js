@@ -61,7 +61,9 @@ module.exports = {
         }), 
     ],
     devServer: {
-        historyApiFallback: true 
+        historyApiFallback: true ,
+        compress: true,
+          allowedHosts: 'all'
     }
 }
 
