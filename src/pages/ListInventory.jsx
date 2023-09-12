@@ -13,7 +13,7 @@ const ListInventory = () => {
 
     const [data, setData] = useState([])
     useEffect(()=>{
-        axios.get('/ListInventory')
+        axios.get('https://quetalraza.onrender.com/ListInventory')
         .then(res => setData(Array.from(res.data)))
         .catch(err => console.log(err))
     }, [])
